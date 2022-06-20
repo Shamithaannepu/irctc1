@@ -1,0 +1,81 @@
+.grid-container{
+
+    text-align: center;
+
+    display: grid;
+
+    row-gap: 5px;
+
+    column-gap: 5px;
+
+    grid-template-columns: 1fr 1fr 1fr;
+
+    grid-template-rows: 1fr 1fr 1fr;
+
+    padding: 10px;
+
+}
+
+.item{
+
+    background-color:white;
+
+    border: 0px solid black;
+
+    border-radius:5px;
+
+    padding: 30px;
+
+    font-size:15px;
+
+    text-align: left;
+
+}
+
+.ite{
+
+    background-color:rgb(224, 221, 221);
+
+    padding:30px;
+
+    font-size:15px;
+
+    text-align: left;
+
+    border: black;
+
+    border-radius:5px;
+
+}
+
+.it{
+
+    background-color:white;
+
+    border: 0px solid black;
+
+    border-radius:5px;
+
+    padding: 30px;
+
+    font-size:15px;
+
+    text-align: left;
+
+}
+
+.i{
+
+    background-color:rgb(224, 221, 221);
+
+    padding:30px;
+
+    font-size:15px;
+
+    text-align: left;
+
+    border: black;
+
+    border-radius:5px;
+
+    text-align: left;
